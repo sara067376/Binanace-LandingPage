@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Binance';
+    src: url('../webfonts/c94943a588b1d34659623d3d00bf7e54.woff2') format('woff2'),
+         url('../webfonts/c94943a588b1d34659623d3d00bf7e54.woff') format('woff'),
+         url('../webfonts/c94943a588b1d34659623d3d00bf7e54.ttf') format('truetype'),
+         url('../webfonts/Binance\ PLEX.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+}
+
